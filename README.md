@@ -1,5 +1,3 @@
-# CORONAVIRUS_TWEET_SENTIMENT_ANALYSIS_Capstone_Project
-
 # Coronavirus Tweet Sentiment Analysis
 
 ## Overview
